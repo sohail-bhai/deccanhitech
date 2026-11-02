@@ -1,0 +1,9 @@
+# Duplicate nested folder
+deccan-hitech-website/
+
+# System and editor files
+.DS_Store
+Thumbs.db
+*.tmp
+.vscode/
+.idea/
